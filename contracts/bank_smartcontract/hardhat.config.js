@@ -8,7 +8,7 @@ module.exports = {
       // url:'${process.env.ALCHEMY_RINKEBY_URL}',
       // accounts: ['${process.env.RINKEBY_PRIVATE_KEY}'],
       url:'https://eth-rinkeby.alchemyapi.io/v2/MNAYlrY0DSdZtj271-rq1Rwx2lglujje',
-      accounts: ['0xac0974bec39a17e36ba4a6b4d238ff944bacb478cbed5efcae784d7bf4f2ff80'],
+      accounts: ['6ecbacac61cd035db69a5df802cff840249c2dfded87378fed7cfdc7757a07ca'],
     }
   },
   paths: {
