@@ -6,7 +6,7 @@ async function main(){
 
     await BankContract.deployed();
 
-    console.log("BankContract deployed to: ",   .address);
+    console.log("BankContract deployed to: ",BankContract.address);
     console.log("BankContract Owner Address: ",owner.address);
 }
 
